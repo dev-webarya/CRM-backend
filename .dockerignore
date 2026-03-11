@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log*
+.env
+.env.local
+.git
+.gitignore
+.qodo
+*.md
+docker-compose.yml
+Dockerfile
+test_approval_workflow.js
+tmpclaude-*
